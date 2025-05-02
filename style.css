@@ -21,12 +21,23 @@
         nav a:hover {
             color: yellow;
         }
-
-        .section {
-            padding: 40px;
+        header{
+            margin: auto;
             text-align: center;
         }
-
+        .container {
+            padding: 30px;
+            text-align: center;
+          }
+        .features {
+            text-align: left;
+            max-width: 600px;
+            margin: 30px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+          }
+      
 
         p {
             font-size: 18px;
@@ -38,8 +49,15 @@
         #contact{
             background-color: rgb(19, 15, 53);
             color: wheat;
+            height: 200px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
         }
         #contact p{
             color: white;
+        }
+        img{
+            width: 500px;
         }
     
