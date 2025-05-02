@@ -1,0 +1,45 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f9f9f9;
+        }
+
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+            font-size: 18px;
+        }
+
+        nav a:hover {
+            color: yellow;
+        }
+
+        .section {
+            padding: 40px;
+            text-align: center;
+        }
+
+
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        #about{
+            background-color: rgb(158, 201, 239);
+        }
+        #contact{
+            background-color: rgb(19, 15, 53);
+            color: wheat;
+        }
+        #contact p{
+            color: white;
+        }
+    
